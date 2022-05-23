@@ -1,0 +1,12 @@
+D:\Учеба Юнити\Проекты\Lesson6\Lesson6\bin\Debug\Lesson6.exe.config
+D:\Учеба Юнити\Проекты\Lesson6\Lesson6\bin\Debug\Lesson6.exe
+D:\Учеба Юнити\Проекты\Lesson6\Lesson6\bin\Debug\Lesson6.pdb
+D:\Учеба Юнити\Проекты\Lesson6\Lesson6\bin\Debug\GBcool.dll
+D:\Учеба Юнити\Проекты\Lesson6\Lesson6\bin\Debug\GBcool.pdb
+D:\Учеба Юнити\Проекты\Lesson6\Lesson6\obj\Debug\Lesson6.csproj.AssemblyReference.cache
+D:\Учеба Юнити\Проекты\Lesson6\Lesson6\obj\Debug\Lesson6.csproj.SuggestedBindingRedirects.cache
+D:\Учеба Юнити\Проекты\Lesson6\Lesson6\obj\Debug\Lesson6.csproj.CoreCompileInputs.cache
+D:\Учеба Юнити\Проекты\Lesson6\Lesson6\obj\Debug\Lesson6.csproj.CopyComplete
+D:\Учеба Юнити\Проекты\Lesson6\Lesson6\obj\Debug\Lesson6.exe
+D:\Учеба Юнити\Проекты\Lesson6\Lesson6\obj\Debug\Lesson6.pdb
+D:\Учеба Юнити\Проекты\Lesson6\Lesson6\bin\Debug\students.csv
